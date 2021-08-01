@@ -4,3 +4,7 @@
 ```
 Getting started with Oops
 ```
+## 2.ipynb
+```
+Exception Handling
+```
