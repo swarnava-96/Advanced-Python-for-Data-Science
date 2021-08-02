@@ -30,3 +30,9 @@ Function copy
 Closures
 Decorators
 ```
+## 8.ipynb
+```
+is VS ==
+Shallow Copy
+Deep Copy
+```
