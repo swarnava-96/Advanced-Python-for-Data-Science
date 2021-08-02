@@ -8,3 +8,7 @@ Getting started with Oops
 ```
 Exception Handling
 ```
+## 3.ipynb
+```
+Inheritence
+```
