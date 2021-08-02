@@ -12,3 +12,7 @@ Exception Handling
 ```
 Inheritence
 ```
+## 4.ipynb
+```
+Magic methods in classes
+```
