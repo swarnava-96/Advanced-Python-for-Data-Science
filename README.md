@@ -16,3 +16,7 @@ Inheritence
 ```
 Magic methods in classes
 ```
+## 5.ipynb
+```
+Assert--Exception handling
+```
