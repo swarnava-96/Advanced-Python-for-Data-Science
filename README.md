@@ -20,3 +20,7 @@ Magic methods in classes
 ```
 Assert--Exception handling
 ```
+## 6.ipynb
+```
+Iterators vs Generators
+```
