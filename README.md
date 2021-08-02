@@ -24,3 +24,9 @@ Assert--Exception handling
 ```
 Iterators vs Generators
 ```
+## 7.ipynb
+```
+Function copy
+Closures
+Decorators
+```
