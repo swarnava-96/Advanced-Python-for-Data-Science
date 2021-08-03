@@ -48,3 +48,7 @@ Static methods
 ```
 Multiple inheritence
 ```
+## _12.ipynb
+```
+Eval Functions -- Evaluating Expressions Dynamically
+```
