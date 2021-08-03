@@ -64,7 +64,7 @@ Zip Function
 ```
 Public Private And Protected Access Modifiers
 ```
-## log.py,Swarnava.txt,log1.py,log1.txt
+## log.py, Swarnava.txt, log1.py, log1.txt
 ```
 Logging Implementation
 ```
