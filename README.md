@@ -36,3 +36,7 @@ is VS ==
 Shallow Copy
 Deep Copy
 ```
+## 9.ipynb
+```
+Class methods vs Class variables
+```
