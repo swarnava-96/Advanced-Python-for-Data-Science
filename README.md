@@ -44,3 +44,7 @@ Class methods vs Class variables
 ```
 Static methods
 ```
+## _11.ipynb
+```
+Multiple inheritence
+```
