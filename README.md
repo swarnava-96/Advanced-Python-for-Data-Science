@@ -40,3 +40,7 @@ Deep Copy
 ```
 Class methods vs Class variables
 ```
+## _10.ipynb
+```
+Static methods
+```
