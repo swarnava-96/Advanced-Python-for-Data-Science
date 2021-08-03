@@ -56,3 +56,7 @@ Eval Functions -- Evaluating Expressions Dynamically
 ```
 Asynchronous Execution (Parallel Execution) With ThreadPoolExecutor
 ```
+## _14.ipynb
+```
+Zip Function
+```
